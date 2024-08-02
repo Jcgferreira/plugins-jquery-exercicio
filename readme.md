@@ -2,6 +2,7 @@
 
 ## Dicas
 
-- O carousel slick utiliza a ID do campo para atribuir funções.
-- A semântica de escrita do HTML e jQuery utilizam o idioma inglês.
-- O jQuery plugin só executa depois que o jQuery carregar na página.
+- O carousel slick foi corrigido e está funcional.
+- A semântica de escrita do HTML e jQuery foram atualizadas e escritas corretamente.
+- O jQuery plugin está funcionando corretamenta após ter sido alocado de forma correta.
+- Mensagens personaliadas foram inseridas para cada 'input'.
